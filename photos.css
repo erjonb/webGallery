@@ -1,0 +1,14 @@
+h2 {
+	font-family: 'Beth Ellen', cursive;
+	margin-left: 1.66%;
+	color: solid;
+	border-bottom: 1px solid gray;
+	width: 30%;
+	padding-bottom: 4px;
+}
+
+img{
+	width: 30%;
+	padding: 1.66%;
+	float: left;
+}
